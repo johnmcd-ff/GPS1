@@ -36,6 +36,7 @@ LoRaGPSpost.py  # module used by home base LoPy to receive LoRa data containing 
 
 
 This example assumes a mqtt server hosted locally, (for example Raspberry Pi with mosquitto installed - there are plenty of tutorials for installing and testing, note if you have wheezy or jessie verions of Raspian)
+http://www.instructables.com/id/Installing-MQTT-BrokerMosquitto-on-Raspberry-Pi/?ALLSTEPS
 
 I have also used the Owntracks app for mapping the data, and connected using the private mqtt setting.
 refer to:
