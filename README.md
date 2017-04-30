@@ -8,7 +8,7 @@ GPS RX --> LoPy1 > - - - >  LoPy2 (mqtt-wifi) > - - > R Pi (mqtt broker) > - - >
 
 For the GPS I use a ublox module NEO 6M on a carrier pcb: GY-GPS6MV2
 pin out:
-VCC  <->  LoPy expansion board pin VCC
+VCC  <->  LoPy expansion board pin P24 3V3
 RX   <->  LoPy expansion board pin G24
 TX   <->  LoPy expansion board pin G11
 GND  <->  LoPy expansion board pin GND
